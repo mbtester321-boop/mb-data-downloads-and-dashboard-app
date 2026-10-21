@@ -2,6 +2,8 @@
 
 This is the local dashboard website for the "Working With Third Party Services" project. It's a static, no-build web app that displays the data downloaded from Gmail, GitHub, Notion, and Google Calendar, side by side with the original content from each service.
 
+**Live site (hosted via GitHub Pages):** https://mbtester321-boop.github.io/mb-data-downloads-and-dashboard-app/
+
 ## What it does
 
 - A home page (`index.html`) with a tile for each connected service.
